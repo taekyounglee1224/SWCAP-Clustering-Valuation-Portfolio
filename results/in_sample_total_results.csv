@@ -1,0 +1,22 @@
+Metric,Cluster_ID,Cluster,RandomMean,p-value (one-sided >),significance
+Sharpe,cluster_0,0.0141,0.0222,1.0,
+Sortino,cluster_0,0.0171,0.0269,1.0,
+CVaR,cluster_0,-0.0359,-0.0343,1.0,
+Sharpe,cluster_1,0.0186,0.0208,0.9324,
+Sortino,cluster_1,0.0252,0.0276,0.8972,
+CVaR,cluster_1,-0.0379,-0.0382,0.1972,
+CVaR,cluster_6,-0.0474,-0.0374,1.0,
+Sortino,cluster_6,0.0226,0.0237,0.7303,
+Sharpe,cluster_6,0.0179,0.0179,0.4857,
+Sharpe,cluster_7,0.0159,0.0192,0.9952,
+Sortino,cluster_7,0.0216,0.025,0.9804,
+CVaR,cluster_7,-0.0367,-0.0359,0.9998,
+Sortino,cluster_8,0.0315,0.0274,0.0,***
+CVaR,cluster_8,-0.0308,-0.0347,0.0,***
+Sharpe,cluster_8,0.0254,0.0223,0.0,***
+Sortino,cluster_12,0.0238,0.0259,0.9094,
+CVaR,cluster_12,-0.0326,-0.0358,0.0,***
+Sharpe,cluster_12,0.0184,0.0202,0.9322,
+Sortino,cluster_13,0.0931,0.0251,0.0,***
+Sharpe,cluster_13,0.0695,0.0186,0.0,***
+CVaR,cluster_13,-0.0525,-0.0376,1.0,
